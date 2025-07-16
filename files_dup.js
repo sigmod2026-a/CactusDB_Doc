@@ -1,0 +1,26 @@
+var files_dup =
+[
+    [ "BaseFunction.h", "BaseFunction_8h_source.html", null ],
+    [ "BatchNorm.h", "BatchNorm_8h_source.html", null ],
+    [ "ChatGPT.h", "ChatGPT_8h_source.html", null ],
+    [ "Concat.h", "Concat_8h_source.html", null ],
+    [ "CosineSimilarity.h", "CosineSimilarity_8h_source.html", null ],
+    [ "DecisionForest.h", "DecisionForest_8h_source.html", null ],
+    [ "DecisionTree.h", "DecisionTree_8h.html", "DecisionTree_8h" ],
+    [ "DotProduct.h", "DotProduct_8h.html", "DotProduct_8h" ],
+    [ "Dropout.h", "Dropout_8h.html", "Dropout_8h" ],
+    [ "Embedding.h", "Embedding_8h.html", "Embedding_8h" ],
+    [ "Encoder.h", "Encoder_8h.html", "Encoder_8h" ],
+    [ "FraudDetectionFunctions.h", "FraudDetectionFunctions_8h.html", "FraudDetectionFunctions_8h" ],
+    [ "functions.h", "functions_8h.html", "functions_8h" ],
+    [ "HuggingFaceServerless.h", "HuggingFaceServerless_8h.html", "HuggingFaceServerless_8h" ],
+    [ "HuggingFaceTokenizer.h", "HuggingFaceTokenizer_8h.html", "HuggingFaceTokenizer_8h" ],
+    [ "NNBuilder.h", "NNBuilder_8h.html", "NNBuilder_8h" ],
+    [ "PositionEncoding.h", "PositionEncoding_8h.html", "PositionEncoding_8h" ],
+    [ "RAG.h", "RAG_8h.html", "RAG_8h" ],
+    [ "SequencePooling.h", "SequencePooling_8h.html", "SequencePooling_8h" ],
+    [ "SVD.h", "SVD_8h.html", "SVD_8h" ],
+    [ "UtilFunction.h", "UtilFunction_8h.html", "UtilFunction_8h" ],
+    [ "VeloxDecisionTree.h", "VeloxDecisionTree_8h.html", "VeloxDecisionTree_8h" ],
+    [ "XGBoost.h", "XGBoost_8h.html", "XGBoost_8h" ]
+];

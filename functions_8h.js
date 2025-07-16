@@ -1,0 +1,36 @@
+var functions_8h =
+[
+    [ "MatrixMultiply", "classMatrixMultiply.html", "classMatrixMultiply" ],
+    [ "MatrixMultiply_b", "classMatrixMultiply__b.html", "classMatrixMultiply__b" ],
+    [ "MatrixMultiply_h", "classMatrixMultiply__h.html", "classMatrixMultiply__h" ],
+    [ "MatrixMultiply_Block", "classMatrixMultiply__Block.html", "classMatrixMultiply__Block" ],
+    [ "MatrixAddition", "classMatrixAddition.html", "classMatrixAddition" ],
+    [ "MatrixVectorAddition", "classMatrixVectorAddition.html", "classMatrixVectorAddition" ],
+    [ "Sigmoid", "classSigmoid.html", "classSigmoid" ],
+    [ "Relu", "classRelu.html", "classRelu" ],
+    [ "Softmax", "classSoftmax.html", "classSoftmax" ],
+    [ "Argmax", "classArgmax.html", "classArgmax" ],
+    [ "MinMaxScaler", "classMinMaxScaler.html", "classMinMaxScaler" ],
+    [ "TorchDNN2Level", "classTorchDNN2Level.html", "classTorchDNN2Level" ],
+    [ "TorchDNN", "classTorchDNN.html", "classTorchDNN" ],
+    [ "TorchDNNV2", "classTorchDNNV2.html", "classTorchDNNV2" ],
+    [ "TorchDNNV2CUDA", "classTorchDNNV2CUDA.html", "classTorchDNNV2CUDA" ],
+    [ "TorchDNNKernel", "classTorchDNNKernel.html", "classTorchDNNKernel" ],
+    [ "TorchDNN_Multi", "classTorchDNN__Multi.html", "classTorchDNN__Multi" ],
+    [ "Convolute", "classConvolute.html", "classConvolute" ],
+    [ "TorchConvolute", "classTorchConvolute.html", "classTorchConvolute" ],
+    [ "TorchCNN", "classTorchCNN.html", "classTorchCNN" ],
+    [ "VectorScalarAddition", "classVectorScalarAddition.html", "classVectorScalarAddition" ],
+    [ "MaxPool", "classMaxPool.html", "classMaxPool" ],
+    [ "velox::dl::KernelType", "namespacevelox_1_1dl.html#a00a1705e74d669bc681fcd999d182eb2", [
+      [ "velox::dl::KernelType::MatMul", "namespacevelox_1_1dl.html#a00a1705e74d669bc681fcd999d182eb2a5debeabaece967a6732b4182ba0269ae", null ],
+      [ "velox::dl::KernelType::MatAdd", "namespacevelox_1_1dl.html#a00a1705e74d669bc681fcd999d182eb2ae6e8f467de24cde75b50f3354a8322b8", null ],
+      [ "velox::dl::KernelType::ReLU", "namespacevelox_1_1dl.html#a00a1705e74d669bc681fcd999d182eb2add10d919fa85cf27fc78c0e06fe0b378", null ],
+      [ "velox::dl::KernelType::Softmax", "namespacevelox_1_1dl.html#a00a1705e74d669bc681fcd999d182eb2a31d953b9d49a6b4378f45097047976d0", null ],
+      [ "velox::dl::KernelType::BatchNorm", "namespacevelox_1_1dl.html#a00a1705e74d669bc681fcd999d182eb2a9b0e06a181507b0d87800b440b6fd13c", null ],
+      [ "velox::dl::KernelType::Argmax", "namespacevelox_1_1dl.html#a00a1705e74d669bc681fcd999d182eb2a2c978c1dc4d52877220803916c037c34", null ],
+      [ "velox::dl::KernelType::Sigmoid", "namespacevelox_1_1dl.html#a00a1705e74d669bc681fcd999d182eb2a21eebb164e4b8b9bcf64fdb4d8d5dff4", null ]
+    ] ],
+    [ "velox::dl::kernelTypeToString", "namespacevelox_1_1dl.html#ac4142c7dbbfc253f4ca2fe99472f169e", null ],
+    [ "velox::dl::operator<<", "namespacevelox_1_1dl.html#a0c06ae429e14f99e39e24961e4a4a693", null ]
+];
